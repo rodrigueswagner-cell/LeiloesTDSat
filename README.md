@@ -9,7 +9,7 @@ git config --global user.name "Wagner Rodrigues"
 git config --global user.email wagner.rodrigues191292@gmail.com
 
 # iniciar versionamento
-gitinit
+👉gitinit
 
 # Untracked: arquivos e pastas que posso apontar para compor o meu commit
 
