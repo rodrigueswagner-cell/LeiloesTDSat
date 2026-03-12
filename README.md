@@ -21,12 +21,12 @@ gitinit
 
 # Criar link para repositorio remoto
 
-git remote add origin 
+👉 git remote add origin 
 https://github.com/rodrigueswagner-cell/LeiloesTDSat.git
 
 # empurrar para o GtiHub
 
-git push -u origin main
+👉 git push -u origin main
 
 ## 🤖 Tecnologias utilizadas
 - Java
